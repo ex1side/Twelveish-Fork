@@ -115,6 +115,11 @@ public class StringTextViewActivity extends Activity{
         values.add(option);
 
         option = new StringOption();
+        option.setName("Ukrainian");
+        option.setSymbol("ua");
+        values.add(option);
+
+        option = new StringOption();
         option.setName("Russian");
         option.setSymbol("ru");
         values.add(option);

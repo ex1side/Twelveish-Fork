@@ -569,6 +569,14 @@ public class MyWatchFace extends CanvasWatchFaceService {
                     PrefixNewLine = new boolean[]{false,true,true,true,true,true,true,true,true,true,true,true};
                     SuffixNewLine = new boolean[]{true,false,false,false,false,false,false,false,false,false,false,false};
                     break;
+                case "ua":
+                    Prefixes = getResources().getStringArray(R.array.PrefixesUA);
+                    Suffixes = getResources().getStringArray(R.array.SuffixesUA);
+                    WeekDays = getResources().getStringArray(R.array.WeekDaysUA);
+                    TimeShift = new int[]{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1};
+                    PrefixNewLine = new boolean[]{false, false, true, false, true, false, false, false, true, true, true, false};
+                    SuffixNewLine = new boolean[]{false, true, true, true, true, true, true, true, false, false, false, false};
+                    break;
                 case "ru":
                     Prefixes = getResources().getStringArray(R.array.PrefixesRU);
                     Suffixes = getResources().getStringArray(R.array.SuffixesRU);

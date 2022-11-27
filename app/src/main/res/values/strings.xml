@@ -240,6 +240,71 @@
         <item>La</item>
     </string-array>
 
+    <string-array name="ExactTimesUA">
+        <item>дванадцять</item>
+        <item>година</item>
+        <item>два</item>
+        <item>три</item>
+        <item>чотири</item>
+        <item>п`ять</item>
+        <item>шість</item>
+        <item>сім</item>
+        <item>вісім</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одинадцять</item>
+        <item>дванадцять</item>
+        <item>тринадцять</item>
+        <item>чотирнадцять</item>
+        <item>п`ятнадцять</item>
+        <item>шістнадцять</item>
+        <item>сімнадцять</item>
+        <item>вісімнадцять</item>
+        <item>дев`ятнадцять</item>
+        <item>двадцять</item>
+        <item>двадцять один</item>
+        <item>двадцять два</item>
+        <item>двадцять три</item>
+    </string-array>
+    <string-array name="PrefixesUA">
+        <item/>
+        <item/>
+        <item>майже</item>
+        <item/>
+        <item>майже</item>
+        <item/>
+        <item/>
+        <item/>
+        <item>майже\u00A0без четверті</item>
+        <item>без четверті</item>
+        <item>майже</item>
+        <item/>
+    </string-array>
+    <string-array name="SuffixesUA">
+        <item/>
+        <item>чи\u00A0около того</item>
+        <item>з\u00A0четверттю</item>
+        <item>з\u00A0четверттю</item>
+        <item>з\u00A0половиною</item>
+        <item>з\u00A0половиною</item>
+        <item>з\u00A0половиною</item>
+        <item>з\u00A0половиною</item>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+    </string-array>
+    <string-array name="WeekDaysUA">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+
+
     <string-array name="ExactTimesRU">
         <item>двенадцать</item>
         <item>час</item>
@@ -303,6 +368,7 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+
 
     <string-array name="ExactTimesDE">
         <item>zwölf</item>

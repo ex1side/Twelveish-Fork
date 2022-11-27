@@ -3,11 +3,11 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.layoutxml.twelveish"
+        applicationId 'com.layoutxml.twelveish'
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 267
-        versionName "2.3.2"
+        versionName '2.3.3'
         multiDexEnabled true
     }
     buildTypes {
